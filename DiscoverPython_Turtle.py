@@ -102,11 +102,6 @@ turtle.right(angle)
 
 ### Let's get our program to make lots of fireworks
 
-
-
-
-
-
 import turtle
 import random
 
