@@ -1,4 +1,4 @@
-## Welcome to Chiin's DiscoverPython GitHub Page!!!!
+## Welcome to Chiin's DiscoverPython GitHub Page
 
 You can use the [editor on GitHub](https://github.com/Chiin-Git/DiscoverPython/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
